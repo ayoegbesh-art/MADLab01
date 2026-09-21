@@ -13,8 +13,8 @@ export default function App() {
   return (
     <View>
       <Text style={styles.paragraph}>
-      Hello world </Text>
-
+      dtfhfdgh {fullname}</Text>
+ 
     </View>
   );
 }
